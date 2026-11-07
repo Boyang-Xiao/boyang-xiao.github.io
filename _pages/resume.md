@@ -38,13 +38,13 @@ B.S. in Engineering Mechanics.
 **Research Assistant, Dong Lab, Vanderbilt University** &mdash; _Jul 2022 to present_<br>
 Department of Mechanical Engineering; Vanderbilt Institute for Surgery and Engineering (VISE)
 
-- **Soft robotic catheter navigation.** Designed a wheel-based soft magnetic robotic catheter and a Franka robot-arm magnetic actuation platform with field prediction, tracking, and position control; navigated ducts as narrow as 2 mm and turns up to 150° in phantoms and ex vivo porcine anatomy with a gastroenterologist. [Project](/projects/1_catheter/)
-- **Wireless miniature soft robots for the GI tract.** Built millimeter-scale robots with climbing, crawling, and rolling locomotion, wireless pumping and valving for liquid release and sampling, and magnetic soft sensors for in situ mucus-viscosity measurement. [Project](/projects/3_miniature_robots/)
-- **Implantable valves for bladder therapy.** Controlled multiple flexible magnetic valves in a soft robotic patch, with resonant-frequency sensing for closed-loop drug release validated in an ex vivo porcine bladder with a urologist; mentored a master's student. [Project](/projects/2_valves/)
+- **Soft robotic catheter navigation.** Designed a wheel-based soft magnetic robotic catheter and a Franka robot-arm magnetic actuation platform with field prediction, tracking, and position control; navigated ducts as narrow as 2 mm and turns up to 150° in phantoms and ex vivo porcine anatomy with a gastroenterologist. [Project](/projects/1-catheter/)
+- **Wireless miniature soft robots for the GI tract.** Built millimeter-scale robots with climbing, crawling, and rolling locomotion, wireless pumping and valving for liquid release and sampling, and magnetic soft sensors for in situ mucus-viscosity measurement. [Project](/projects/3-miniature-robots/)
+- **Implantable valves for bladder therapy.** Controlled multiple flexible magnetic valves in a soft robotic patch, with resonant-frequency sensing for closed-loop drug release validated in an ex vivo porcine bladder with a urologist; mentored a master's student. [Project](/projects/2-valves/)
 
 **Research Assistant, AMIRo Lab, Johns Hopkins University** &mdash; _May 2021 to Jun 2022_
 
-- **Precision calibration for retinal surgery.** Calibrated Eye Robot 3.0's Delta robot and tilting mechanism with a 21-parameter kinematic model and Bernstein polynomial compensation (tool-tip error under 20 µm); implemented inverse kinematics, Cartesian control, RCM-constrained cooperative control, and data logging in ROS and CISST. [Project](/projects/4_retinal/)
+- **Precision calibration for retinal surgery.** Calibrated Eye Robot 3.0's Delta robot and tilting mechanism with a 21-parameter kinematic model and Bernstein polynomial compensation (tool-tip error under 20 µm); implemented inverse kinematics, Cartesian control, RCM-constrained cooperative control, and data logging in ROS and CISST. [Project](/projects/4-retinal/)
 
 ## Patent
 

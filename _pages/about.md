@@ -34,9 +34,9 @@ I am completing my Ph.D. in Mechanical Engineering in the Dong Lab at Vanderbilt
 
 ### Selected results
 
-- **1.75 mm catheter, 2 mm ducts.** A soft magnetic robotic catheter that navigated ducts as narrow as 2 mm and turns up to 150°, tested in a biliary-tract phantom and ex vivo porcine anatomy. [More](/projects/1_catheter/)
-- **Under 20 µm residual error.** Calibration and compensation of a retinal surgical robot reduced tool-tip position error below 20 micrometers. [More](/projects/4_retinal/)
-- **Closed-loop drug delivery.** Wireless magnetic valves with resonant-frequency sensing regulated liquid release in an ex vivo porcine bladder. [More](/projects/2_valves/)
+- **1.75 mm catheter, 2 mm ducts.** A soft magnetic robotic catheter that navigated ducts as narrow as 2 mm and turns up to 150°, tested in a biliary-tract phantom and ex vivo porcine anatomy. [More](/projects/1-catheter/)
+- **Under 20 µm residual error.** Calibration and compensation of a retinal surgical robot reduced tool-tip position error below 20 micrometers. [More](/projects/4-retinal/)
+- **Closed-loop drug delivery.** Wireless magnetic valves with resonant-frequency sensing regulated liquid release in an ex vivo porcine bladder. [More](/projects/2-valves/)
 
 ### What I bring to a team
 
