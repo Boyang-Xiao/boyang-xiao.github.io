@@ -4,7 +4,13 @@ title: about
 permalink: /
 subtitle: Robotics and Medical Device Engineer &nbsp;|&nbsp; Ph.D. Candidate in Mechanical Engineering, <a href="https://www.vanderbilt.edu/vise/">Vanderbilt University</a>
 
-profile: false
+profile:
+  align: right
+  image: Boyang_Xiao_headshot.jpg
+  image_circular: false
+  more_info: >
+    <p>Nashville, TN</p>
+    <p><a href="mailto:xiaoby1996@gmail.com">xiaoby1996@gmail.com</a></p>
 
 selected_papers: true # lists papers marked selected={true} in _bibliography/papers.bib
 social: true # shows contact icons at the bottom of the page

@@ -2,9 +2,19 @@
 layout: page
 title: Implantable Valves for Controlled Drug Delivery
 description: A soft robotic bladder patch with multiple wireless magnetic valves and resonant-frequency sensing for closed-loop release.
+img: assets/img/projects/valves_concept.jpg
 importance: 2
 related_publications: true
 ---
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm-12 mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/projects/valves_concept.jpg" title="Magnetic valve-enabled soft robotic patch for intravesical drug delivery" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+<div class="caption">
+  Concept and design of the magnetic valve-enabled soft robotic patch: delivery and anchoring in the bladder, valve opening and closing, the foldable drug chamber with capacitive volume sensing, and the fabricated device on bladder tissue. Fig. 1 from Xiao et al., <em>Advanced Healthcare Materials</em>, 2026 (CC BY 4.0).
+</div>
 
 **Challenge.** Delivering liquid on demand from a flexible implantable platform, and measuring how much was released.
 

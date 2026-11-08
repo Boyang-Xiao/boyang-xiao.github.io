@@ -7,8 +7,6 @@ nav: true
 nav_order: 3
 ---
 
-<p><a href="/assets/pdf/Boyang_Xiao_Resume.pdf" target="_blank" rel="noopener"><i class="fa-solid fa-file-pdf"></i> <strong>Download PDF resume</strong></a></p>
-
 ## Summary
 
 Ph.D. candidate in Mechanical Engineering with 5+ years of experience designing, modeling, integrating, and experimentally validating medical robotic systems for minimally invasive applications. Experienced in translating clinical needs into device requirements and test protocols, developing robotic actuation and sensing platforms, and implementing calibration and control workflows. Collaborated with clinicians on anatomical phantom and ex vivo testing in gastrointestinal and urological applications, with additional experience in precision robotics for retinal surgery. Available for full-time roles from February 2027.

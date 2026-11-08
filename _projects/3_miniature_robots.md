@@ -2,10 +2,19 @@
 layout: page
 title: Miniature Robots for Sensing and Fluid Manipulation
 description: Millimeter-scale magnetic soft robots that climb, crawl, and roll, and that pump, sample, and sense fluids wirelessly.
-img: assets/img/projects/miniature_robot.jpg
+img: assets/img/projects/device_graphical_abstract.jpg
 importance: 3
 related_publications: true
 ---
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm-12 mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/projects/device_graphical_abstract.jpg" title="Multifunctional miniature soft robot with fluidic modules" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+<div class="caption">
+  A miniature soft robot with wireless fluidic modules, packed in a swallowable capsule, pumps and valves biofluid on demand. Graphical abstract from Xiao et al., <em>Device</em>, 2025 (CC BY-NC-ND 4.0).
+</div>
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-12 mt-3 mt-md-0">
@@ -31,9 +40,9 @@ related_publications: true
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-12 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/projects/miniature_robot.jpg" title="Rod-shaped magnetic soft robot on porcine colon tissue" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/projects/mucus_sensing_concept.jpg" title="Soft climbing robot delivering wireless viscosity sensors" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
-  A rod-shaped magnetic soft robot climbing on porcine colon tissue under an external magnetic field.
+  A swallowable capsule releases a millimeter-scale climbing robot that anchors wireless viscosity sensors on colon tissue for in situ mucus sensing under medical imaging. Fig. 1 from Xiao et al., <em>Advanced Functional Materials</em>, 2024 (author manuscript, PMC11845219).
 </div>

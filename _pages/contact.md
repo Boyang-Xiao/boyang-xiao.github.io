@@ -12,6 +12,6 @@ I am happy to talk about roles, collaborations, or any of the projects on this s
 - <i class="fa-solid fa-envelope"></i> **Email:** [xiaoby1996@gmail.com](mailto:xiaoby1996@gmail.com)
 - <i class="fa-solid fa-building-columns"></i> **University email:** [boyang.xiao@vanderbilt.edu](mailto:boyang.xiao@vanderbilt.edu)
 - <i class="fa-brands fa-linkedin"></i> **LinkedIn:** [linkedin.com/in/boyang-xiao](https://www.linkedin.com/in/boyang-xiao)
-- <i class="fa-solid fa-file-pdf"></i> **Resume:** [Download PDF](/assets/pdf/Boyang_Xiao_Resume.pdf)
+- <i class="ai ai-google-scholar"></i> **Google Scholar:** [Publications and citations](https://scholar.google.com/citations?user=btRJdKQAAAAJ)
 
 **Location:** Nashville, TN. Open to relocating anywhere in the U.S. and to travel.
