@@ -7,6 +7,5 @@ Where to edit:
 - Home page: `_pages/about.md`
 - Projects: `_projects/*.md` (images in `assets/img/projects/`, videos in `assets/video/`)
 - Publications: `_bibliography/papers.bib` (`selected={true}` shows a paper on the home page)
-- Resume page: `_pages/resume.md` (no PDF download, by choice)
 - Contact page: `_pages/contact.md`; home-page contact icons: `_data/socials.yml`
 - Site name, URL, and feature switches: `_config.yml`
